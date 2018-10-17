@@ -16,6 +16,9 @@
 <p><a target="_blank" href="https://webp.svsu.edu/~aekrause/prog01.html">1. M-Drive</a></p>
 <p><a target="_blank" href="file:///C:/Users/User/Documents/prog01.html">2. CSIS</a></p>
 <p><a target="_blank" href="https://caring-profession.000webhostapp.com/prog01.html">3. 000Webhost</a></p>
+<p>4. I think the best of the hosting sites used is GitHub. This website has a very user friendly way of 
+making the website look nice. It also is easy to go back and forth from looking at what the website looks
+like to the html code.</p>
 
 <h2> Prog02- Github and Netbeans</h2>
 <h4> My work </h4>
