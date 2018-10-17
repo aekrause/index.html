@@ -1,7 +1,7 @@
 <h1> Ann Krause</h1>
 
 
-<h2> Prog00 </h2>
+<h2> Prog00- hosting, linking and file management </h2>
 <p> 1. Topic: Raising Children Costs </p>
 <p><a target="_blank" href="https://github.com/aekrause?tab=repositories"> 2. GitHub Pages</a></p>
 <p><a target="_blank" href="https://codepen.io/aekrause/"> 3. Code Pen</a></p>
@@ -10,14 +10,14 @@
 <p><a target="_blank" href="https://app-1536788728.000webhostapp.com/"> 6. 000Webhost</a></p>
 
 
-<h2> Prog01 </h2>
+<h2> Prog01- Semantic HTML </h2>
 <p><a target="_blank" href="https://aekrause1.wordpress.com/2018/09/14/raising-children-costs/"> Wordpress Blogs</a></p>
 <p><a target="_blank" href="https://codepen.io/aekrause/pen/ZMjqde"> Code Pen Bliogs</a></p>
 <p><a target="_blank" href="https://webp.svsu.edu/~aekrause/prog01.html">1. M-Drive</a></p>
 <p><a target="_blank" href="file:///C:/Users/User/Documents/prog01.html">2. CSIS</a></p>
 <p><a target="_blank" href="https://caring-profession.000webhostapp.com/prog01.html">3. 000Webhost</a></p>
 
-<h2> Prog02 </h2>
+<h2> Prog02- Github and Netbeans</h2>
 <h4> My work </h4>
 <p>1. Netbeans fully downloaded on my computer.</p>
 <p>2.Repo cloned from gpcorser github </p>
