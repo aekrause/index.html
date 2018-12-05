@@ -3,10 +3,10 @@
 
 <h2> Prog00- hosting, linking and file management </h2>
 <p> 1. Topic: Raising Children Costs </p>
-<p><a target="_blank" href="https://github.com/aekrause?tab=repositories"> 2. GitHub Pages</a></p>
+<p><a target="_blank" href="https://aekrause.github.io/index.html/"> 2. GitHub Pages</a></p>
 <p><a target="_blank" href="https://codepen.io/aekrause/"> 3. Code Pen</a></p>
 <p><a target="_blank" href="https://webp.svsu.edu/~aekrause/"> 4. M-Drive</a></p>
-<p><a target="_blank" href="http://csis.svsu.edu/~aekrause/public_html/"> 5. CSIS Server</a></p>
+<p><a target="_blank" href="http://csis.svsu.edu/~aekrause"> 5. CSIS Server</a></p>
 <p><a target="_blank" href="https://app-1536788728.000webhostapp.com/"> 6. 000Webhost</a></p>
 
 
